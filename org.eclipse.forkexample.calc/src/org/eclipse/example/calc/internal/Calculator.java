@@ -9,6 +9,7 @@
  *******************************************************************************/
 package org.eclipse.example.calc.internal;
 // Mein erster Kommentar
+// Änderung im Masterbrunch
 import org.eclipse.example.calc.BinaryOperation;
 import org.eclipse.example.calc.Operation;
 import org.eclipse.example.calc.Operations;
