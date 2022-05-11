@@ -6,6 +6,7 @@
  * are made available under the terms of the Eclipse Public License v1.0
  * which accompanies this distribution, and is available at
  * http://www.eclipse.org/legal/epl-v10.html
+ * WorkingCopy in NIU new on master
  *******************************************************************************/
 package org.eclipse.example.calc.internal;
 
@@ -36,6 +37,7 @@ public class Calculator {
 	}
 
 	private void setupDefaultOperations() {
+		// more operation to come
 		new Equals();
 		new Minus();
 		new Plus();
