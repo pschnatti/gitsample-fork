@@ -8,7 +8,7 @@
  *******************************************************************************/
 package org.eclipse.example.calc;
 /**
- * Binary operation interface
+ * Binary operation interface Änderung
  */
 public interface BinaryOperation extends Operation {
 	/**
