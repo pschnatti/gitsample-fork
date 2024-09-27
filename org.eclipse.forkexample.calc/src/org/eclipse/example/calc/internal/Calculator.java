@@ -8,7 +8,9 @@
  * http://www.eclipse.org/legal/epl-v10.html
  *******************************************************************************/
 package org.eclipse.example.calc.internal;
-
+// Mein erster Kommentar
+// Änderung im Masterbrunch
+// Änderung für Commit und Push
 import org.eclipse.example.calc.BinaryOperation;
 import org.eclipse.example.calc.Operation;
 import org.eclipse.example.calc.Operations;
